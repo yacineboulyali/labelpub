@@ -1,0 +1,82 @@
+body {
+    background-image: url('../images/background.png');
+    background-size: cover;
+    height: 20%;
+}
+
+.min-vh-100 {
+    min-height: 85vh!important;
+}
+.image-bird img, .image-body img, .image-eyes img {
+    width: 90%;
+    padding:  20% auto;
+}
+
+.mini-logo {
+    width: 78%;
+    margin-bottom: 34px;
+    margin-top: 46px;
+}
+
+.btn-blue {
+    background-repeat: repeat;
+    background-image: url('../images/background_btn_blue.png');
+    border-radius: 0;
+    color: #ffffff;
+    font-size: 10pt;
+    padding: 17px 31px !important;
+    margin: 4px;
+
+}
+
+.btn-brown {
+    background-image: url("../images/background_btn_brown1.png");
+    border-radius: 0;
+    font-size: 10pt;
+    color: #ffffff;
+    padding: 17px 43px !important;
+    margin: 4px;
+}
+
+@font-face {
+    font-family: Aller-Rg;
+    src: url('../fonts/Aller_Rg.ttf');
+}
+
+@font-face {
+    font-family: Nota-Medium;
+    src: url('../fonts/Nota-Medium.otf');
+}
+
+@font-face {
+    font-family: Prime-Regular;
+    src: url('../fonts/Prime Regular.otf');
+}
+
+.content-title {
+    font-family: Prime-Regular;
+    font-size: 25pt;
+    color: #ffffff;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.content-description {
+    color: #ffffff;
+    font-family: Prime-Regular;
+    font-size: 12pt;
+    line-height: 18pt;
+    letter-spacing: 1.5pt;
+}
+
+
+@media (max-width: 760px){
+    .image-bird img, .image-body img, .image-eyes img {
+        width: 380px !important;
+    }
+
+
+
+}
+
+
