@@ -4,9 +4,12 @@ body {
     height: 20%;
 }
 
-.min-vh-100 {
-    min-height: 85vh!important;
+
+.navbar-brand img{
+    width: 60px;
+
 }
+
 .image-bird img, .image-body img, .image-eyes img {
     width: 90%;
     padding:  20% auto;
@@ -24,7 +27,7 @@ body {
     border-radius: 0;
     color: #ffffff;
     font-size: 10pt;
-    padding: 17px 31px !important;
+    padding: 10px 20px !important;
     margin: 4px;
 
 }
@@ -34,7 +37,7 @@ body {
     border-radius: 0;
     font-size: 10pt;
     color: #ffffff;
-    padding: 17px 43px !important;
+    padding: 10px 20px !important;
     margin: 4px;
 }
 
@@ -69,12 +72,63 @@ body {
     letter-spacing: 1.5pt;
 }
 
+/* Responsive : SmartPhone Mode */
 
-@media (max-width: 760px){
+@media screen and (max-width: 600px) {
+
     .image-bird img, .image-body img, .image-eyes img {
-        width: 380px !important;
+        width: 50% !important;
     }
 
+    .mini-logo {
+        width: 71%;
+        margin-bottom: 10px;
+        margin-top: 8px;
+    }
+
+.navbar-collapse{background-color:#dc3545;}
+
+    .content-title {
+        ont-family: Prime-Regular;
+        font-size: 20pt;
+        color: #ffffff;
+        margin-bottom: 16px;
+        margin-top: 16px;
+    }
+
+    .navbar-brand img{
+        width: 42px;
+
+    }
+
+    .content-description {
+        color: #ffffff;
+        font-family: Prime-Regular;
+        font-size: 15px;
+        line-height: 18pt;
+        text-align: justify;
+        letter-spacing: 1.5pt;
+    }
+
+    html, body {
+        padding-top: 30px;
+        overflow:hidden  !important;
+    }
+
+    .btn-blue {
+        font-size: 9pt;
+        font-weight: 700;
+        padding: 10px 6px !important;
+        margin: 4px;
+    }
+
+    .btn-brown {
+        font-size: 9pt;
+        font-weight: 700;
+        color: #ffffff;
+        padding: 10px 3px !important;
+        margin: 4px;
+    }
 
 
 }

@@ -12,41 +12,40 @@
     <link href="css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css  ">
-
 </head>
 <body class="min-vh-100">
 <header>
 </header>
 
-<nav class=" container navbar navbar-expand-lg navbar-light">
-    <a class="navbar-brand" href="#"> <img src="images/logo.png" style="width: 60px"></a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-arget="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-            <li class="nav-item active">
-                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#"> Agence Web</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Studio Graphique</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#">Marketing Digital</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#">  Vidéo et Animation</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#">Conseils</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#">ENG</a>
-            </li>
-        </ul>
+<nav class="navbar navbar-expand-lg navbar-dark  ">
+    <div class="container">
+        <a class="navbar-brand" href="/"><img src="images/logo.png" alt=""></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample07" aria-controls="navbarsExample07" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarsExample07">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#"> Agence Web</a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link" href="#">Studio Graphique</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link " href="#">Marketing Digital</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">  Vidéo et Animation</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link " href="#"> Conseils</a>
+                </li>
+            </ul>
+            <form class="form-inline my-2 my-md-0">
+                <input class="form-control" type="text" placeholder="Search" aria-label="Search">
+            </form>
+        </div>
     </div>
 </nav>
 

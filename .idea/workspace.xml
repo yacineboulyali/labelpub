@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e77e7fa8-1e2a-4bd9-9c38-cb87b4e4ad07" name="Default Changelist" comment="" />
+    <list default="true" id="e77e7fa8-1e2a-4bd9-9c38-cb87b4e4ad07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Aller_Rg.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Aller_Rg.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Nota-Medium.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Nota-Medium.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Prime Regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Prime Regular.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/fullpage.extensions.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/fullpage.extensions.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1.php" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,33 +19,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="95" column="25" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style-sc.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="301" column="14" lean-forward="true" selection-start-line="301" selection-start-column="14" selection-end-line="301" selection-end-column="14" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/page1.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2288">
-              <caret line="88" column="9" lean-forward="true" selection-start-line="81" selection-start-column="7" selection-end-line="88" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="240">
+              <caret line="84" column="78" selection-start-line="84" selection-start-column="78" selection-end-line="84" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -52,12 +68,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>brow</find>
-      <find>carousel</find>
-      <find>Heading</find>
-      <find>heigh</find>
-      <find>THREE</find>
-      <find>auto</find>
       <find>100</find>
       <find>Comment concevoir une stratégie d</find>
       <find>eye</find>
@@ -77,6 +87,17 @@
       <find>displa</find>
       <find>orde</find>
       <find>style=&quot;padding: 10px&quot;</find>
+      <find>section</find>
+      <find>main</find>
+      <find>class=&quot;min-vh-100&quot;</find>
+      <find>(max-width: 760px)</find>
+      <find>importa</find>
+      <find>over</find>
+      <find>conten</find>
+      <find>logo</find>
+      <find>blue</find>
+      <find>screen and (max-width: 600px)</find>
+      <find>title</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -90,17 +111,19 @@
         <option value="$PROJECT_DIR$/css/FullPage.css" />
         <option value="$PROJECT_DIR$/app/page.html" />
         <option value="$PROJECT_DIR$/app/page2.html" />
-        <option value="$PROJECT_DIR$/page2.php" />
-        <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/page1.php" />
+        <option value="$PROJECT_DIR$/page2.php" />
+        <option value="$PROJECT_DIR$/css/style-sc.css" />
+        <option value="$PROJECT_DIR$/index2.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="732" />
@@ -111,6 +134,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,16 +142,10 @@
               <item name="labelpub" type="b2602c69:ProjectViewProjectNode" />
               <item name="labelpub" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="labelpub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="labelpub" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,7 +218,17 @@
       <workItem from="1551519028123" duration="2354000" />
       <workItem from="1551552189969" duration="35000" />
       <workItem from="1551689533103" duration="1284000" />
-      <workItem from="1552216687927" duration="6646000" />
+      <workItem from="1552216687927" duration="7452000" />
+      <workItem from="1552314706155" duration="1863000" />
+      <workItem from="1552331303850" duration="500000" />
+      <workItem from="1552487235078" duration="1045000" />
+      <workItem from="1553102173202" duration="56000" />
+      <workItem from="1553848229796" duration="1187000" />
+      <workItem from="1553983010296" duration="7308000" />
+      <workItem from="1554105954277" duration="2600000" />
+      <workItem from="1554313603376" duration="500000" />
+      <workItem from="1554314219873" duration="564000" />
+      <workItem from="1554556372484" duration="1652000" />
     </task>
     <task id="LOCAL-00001" summary="réglage de probleme des marge sur le mobile , et l'ordre des composant">
       <created>1551689847777</created>
@@ -213,13 +241,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68501000" />
+    <option name="totallyTimeSpent" value="86582000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="732" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="732" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27625203" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31744748" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -232,7 +260,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.065625" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5421875" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -343,28 +371,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/page.html" />
     <entry file="file://$PROJECT_DIR$/app/page2.html" />
-    <entry file="file://$PROJECT_DIR$/page2.php" />
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/page1.php" />
+    <entry file="file://$PROJECT_DIR$/index2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="246">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="301" column="14" lean-forward="true" selection-start-line="301" selection-start-column="14" selection-end-line="301" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="84" column="78" selection-start-line="84" selection-start-column="78" selection-end-line="84" selection-end-column="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page1.php">
+    <entry file="file://$PROJECT_DIR$/css/style-sc.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2288">
-          <caret line="88" column="9" lean-forward="true" selection-start-line="81" selection-start-column="7" selection-end-line="88" selection-end-column="9" />
+        <state relative-caret-position="182">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="95" column="25" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
         </state>
       </provider>
     </entry>
